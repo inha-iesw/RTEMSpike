@@ -1,4 +1,4 @@
-# Renode
+# RTEMSpike
 
 Copyright (c) 2010-2025 [Antmicro](https://www.antmicro.com)
 
